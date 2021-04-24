@@ -31,7 +31,7 @@ This project was developed using cutting edge front-end technologies.
 **Clone the project and access the folder**
 
 ```bash
-$ git clone https://github.com/matheus097/podcastrnext/  && cd podcastrnext
+$ git clone https://github.com/matheus097/podcastr/  && cd podcastrnext
 ```
 
 **Follow the steps below**
