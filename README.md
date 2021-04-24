@@ -2,9 +2,6 @@
   <img src="img/podcastr-logo.svg" alt="Podcastr logo">
 </div>
 
-## Podcastr
-
-
 <h4 align="center">
   Podcastr is a platform built for podcast broadcasting.
 </h4>
