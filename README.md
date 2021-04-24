@@ -53,4 +53,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-Made with by Matheus Marques 👋 [Check out my LinkedIn](https://www.linkedin.com/in/matheusm97/)
+Made by Matheus Marques 👋 [Check out my LinkedIn](https://www.linkedin.com/in/matheusm97/)
