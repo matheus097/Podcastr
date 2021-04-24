@@ -40,8 +40,6 @@ $ git clone https://github.com/matheus097/podcastrnext/  && cd podcastrnext
 **Follow the steps below**
 
 ```bash
-# Install the dependencies
-$ Npm
 
 # Run the backend fake server
 $ Npm run server
