@@ -4,9 +4,6 @@
 
 ## Podcastr
 
-[![Author]
-[![Languages]
-[![Stars]
 
 <h4 align="center">
   Podcastr is a platform built for podcast broadcasting.
