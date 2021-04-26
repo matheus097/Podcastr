@@ -1,3 +1,8 @@
+<h4>
+  This is a project developed during the Next Level Week, presented by Rocketseat during April 2021.
+</h4>
+
+
 <div align="center">
   <img src="img/podcastr-logo.svg" alt="Podcastr logo">
 </div>
