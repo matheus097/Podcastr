@@ -42,12 +42,14 @@ $ git clone https://github.com/matheus097/podcastr/  && cd podcastr
 **Follow the steps below**
 
 ```bash
+# Install the dependencies
+$ npm install
 
 # Run the backend fake server
-$ Npm run server
+$ npm run server
 
 # Run the web server
-$ Npm run dev
+$ npm run dev
 ```
 
 The app will be available for access on your browser at `http://localhost:3000`
